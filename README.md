@@ -1,0 +1,1 @@
+OperatorAI is a smart tool for AI to take mouse and keyboard control of your pc, in order to complete user-defined goals, such as open your music app to play some music or add new items to your online to-do list.
